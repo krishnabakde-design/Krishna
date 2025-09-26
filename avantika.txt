@@ -1,1 +1,3 @@
 Avantika University Website Dashboard 
+SoE- School Of ENGINEERING
+-> Computer Science 
